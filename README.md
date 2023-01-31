@@ -1,5 +1,3 @@
-### Olá, eu sou o João Reis!
-
 ### Olá! Eu sou o João Reis. ✋
 
 <br>
