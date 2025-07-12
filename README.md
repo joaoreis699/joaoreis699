@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Reis. ✋
 
-### Cursando Análise e Desenvolvimento de Sistema 🔥
+### Cursando Sistema de Informação - UFRRJ 🔥
 
 <br>
 
