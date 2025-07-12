@@ -17,5 +17,5 @@
     <img align = "center" alt = "SpringBoot" src ="![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)"/>
     <img align = "center" alt = "mySQL" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align = "center" alt = "JavaScript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align = "center" alt = "C" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
+    <img align = "center" alt = "C" src = ""/>
 </div>
